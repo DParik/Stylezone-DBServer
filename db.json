@@ -253,6 +253,10 @@
     "men",
     "women"
   ],
+  "types": [
+    "cash",
+    "debit"
+  ],
   "orders": [
     {
       "id": 1,
