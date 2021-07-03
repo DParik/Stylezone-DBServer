@@ -257,6 +257,8 @@
     "cash",
     "debit"
   ],
+  "users" [
+  ],
   "orders": [
     {
       "id": 1,
