@@ -253,14 +253,6 @@
     "men",
     "women"
   ],
-  "orders": [
-    {
-      "id": 1,
-      "emailid": "james@gmail.com",
-      "orderAmount": 100,
-      "products": [
-        1,2
-      ]
-    }
-  ]
+  "users": [
+  ],
 }
