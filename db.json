@@ -241,10 +241,8 @@
     }
   ],
   "users": [
-    {
-      "userid": "abc",
-      "name": "jame"
-    }
+    "user1",
+    "user2",
   ],
   "categories": [
     "tshirt",
