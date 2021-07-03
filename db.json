@@ -247,9 +247,9 @@
     "track",
     "jeans",
     "shorts",
-    "trousers",
+    "trousers"
   ],
-  "genders": [
+  "genders" : [
     "men",
     "women"
   ],
@@ -257,8 +257,10 @@
     {
       "id": 1,
       "emailid": "james@gmail.com",
-      "userId": 1,
-      "orderAmount": 100
+      "orderAmount": 100,
+      "products": [
+        1,2
+      ]
     }
   ]
 }
