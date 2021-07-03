@@ -263,11 +263,5 @@
         1,2
       ]
     }
-  ],
-  "customers": [
-    {
-      "id": 1,
-      "name": "james@gmail.com"
-    }
-  ],
+  ]
 }
