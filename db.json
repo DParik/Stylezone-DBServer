@@ -248,12 +248,9 @@
     "jeans",
     "shorts",
     "trousers",
-    "kurtas",
   ],
   "genders" : [
     "men",
     "women"
-  ],
-  "users": [
-  ],
+  ]
 }
