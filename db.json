@@ -252,5 +252,22 @@
   "genders": [
     "men",
     "women"
-  ]
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "emailid": "james@gmail.com",
+      "userId": 1,
+      "orderAmount": 100,
+      "products": [
+        1,2
+      ]
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "james@gmail.com"
+    }
+  ],
 }
