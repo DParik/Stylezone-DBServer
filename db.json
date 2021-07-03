@@ -240,6 +240,12 @@
         ]
     }
   ],
+  "users": [
+    {
+      "userid": "abc",
+      "name": "jame"
+    }
+  ],
   "categories": [
     "tshirt",
     "shirt",
