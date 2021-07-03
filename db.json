@@ -240,11 +240,7 @@
         ]
     }
   ],
-  "users" :[
-    "user1",
-    "user2",
-  ],
-  "categories" :[
+  "categories": [
     "tshirt",
     "shirt",
     "jacket",
@@ -253,7 +249,7 @@
     "shorts",
     "trousers",
   ],
-  "genders" :[
+  "genders": [
     "men",
     "women"
   ]
