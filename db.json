@@ -240,7 +240,7 @@
         ]
     }
   ],
-  filters: {
+  "filters": {
     "categories": [
       "T-shirt",
       "Shirt",
