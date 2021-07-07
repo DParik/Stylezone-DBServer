@@ -5,6 +5,7 @@
         "name": "Men's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
+        "discountedPrice": 180,
         "category": "tshirt",
         "gender": "men",
         "images": [
@@ -17,6 +18,7 @@
         "name": "Men's Polo Jacket",
         "price": 650,
         "discountPercent": 50,
+        "discountedPrice": 325,
         "category": "jacket",
         "gender": "men",
         "images": [
@@ -28,7 +30,8 @@
         "id": 3,
         "name": "Men's Polo Track",
         "price": 850,
-        "discountPercent": 0,
+        "discountPercent": 50,
+        "discountedPrice": 425,
         "category": "track",
         "gender": "men",
         "images": [
@@ -41,6 +44,7 @@
         "name": "Men's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
+        "discountedPrice": 330,
         "category": "shirt",
         "gender": "men",
         "images": [
@@ -53,6 +57,7 @@
         "name": "Men's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
+        "discountedPrice": 180,
         "category": "tshirt",
         "gender": "men",
         "images": [
@@ -65,6 +70,7 @@
         "name": "Men's Polo Jacket",
         "price": 650,
         "discountPercent": 50,
+        "discountedPrice": 325,
         "category": "jacket",
         "gender": "men",
         "images": [
@@ -76,7 +82,8 @@
         "id": 7,
         "name": "Men's Polo Track",
         "price": 850,
-        "discountPercent": 0,
+        "discountPercent": 50,
+        "discountedPrice": 425,
         "category": "track",
         "gender": "men",
         "images": [
@@ -89,6 +96,7 @@
         "name": "Men's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
+        "discountedPrice": 330,
         "category": "shirt",
         "gender": "men",
         "images": [
@@ -101,6 +109,7 @@
         "name": "Men's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
+        "discountedPrice": 180,
         "category": "tshirt",
         "gender": "men",
         "images": [
@@ -113,6 +122,7 @@
         "name": "Men's Polo Jacket",
         "price": 650,
         "discountPercent": 50,
+        "discountedPrice": 325,
         "category": "jacket",
         "gender": "men",
         "images": [
@@ -124,7 +134,8 @@
         "id": 11,
         "name": "Women's Polo Track",
         "price": 850,
-        "discountPercent": 0,
+        "discountPercent": 50,
+        "discountedPrice": 425,
         "category": "track",
         "gender": "women",
         "images": [
@@ -137,6 +148,7 @@
         "name": "Women's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
+        "discountedPrice": 330,
         "category": "shirt",
         "gender": "women",
         "images": [
@@ -149,6 +161,7 @@
         "name": "Women's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
+        "discountedPrice": 180,      
         "category": "tshirt",
         "gender": "women",
         "images": [
@@ -161,6 +174,7 @@
         "name": "Women's Polo Jacket",
         "price": 650,
         "discountPercent": 50,
+        "discountedPrice": 325,
         "category": "jacket",
         "gender": "women",
         "images": [
@@ -172,7 +186,8 @@
         "id": 15,
         "name": "Women's Polo Track",
         "price": 850,
-        "discountPercent": 0,
+        "discountPercent": 50,
+        "discountedPrice": 425,
         "category": "track",
         "gender": "women",
         "images": [
@@ -185,6 +200,7 @@
         "name": "Women's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
+        "discountedPrice": 330,
         "category": "shirt",
         "gender": "women",
         "images": [
@@ -197,6 +213,7 @@
         "name": "Men's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
+        "discountedPrice": 180,
         "category": "tshirt",
         "gender": "women",
         "images": [
@@ -209,6 +226,7 @@
         "name": "Women's Polo Jacket",
         "price": 650,
         "discountPercent": 50,
+        "discountedPrice": 325,
         "category": "jacket",
         "gender": "women",
         "images": [
@@ -220,7 +238,8 @@
         "id": 19,
         "name": "Women's Polo Track",
         "price": 850,
-        "discountPercent": 0,
+        "discountPercent": 50,
+        "discountedPrice": 425,
         "category": "track",
         "gender": "women",
         "images": [
@@ -233,6 +252,7 @@
         "name": "Women's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
+        "discountedPrice": 335,
         "category": "shirt",
         "gender": "women",
         "images": [
