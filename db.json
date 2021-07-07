@@ -240,15 +240,31 @@
         ]
     }
   ],
-  "categories": [
-    "tshirt",
-    "shirt",
-    "jacket",
-    "track",
-    "jeans",
-    "shorts",
-    "trousers"
-  ],
+  filters: {
+    "categories": [
+      "T-shirt",
+      "Shirt",
+      "Jacket",
+      "Track",
+      "Jeans",
+      "Shorts",
+      "Trousers"
+    ],
+    "price": [
+      {
+        "min": 199,
+        "max": 399
+      },
+      {
+        "min": 400,
+        "max": 699
+      },
+      {
+        "min": 700,
+        "max": 999
+      }
+    ]
+  }
   "genders" : [
     "men",
     "women"
