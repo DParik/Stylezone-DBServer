@@ -242,13 +242,13 @@
   ],
   "filters": {
     "categories": [
-      "T-shirt",
-      "Shirt",
-      "Jacket",
-      "Track",
-      "Jeans",
-      "Shorts",
-      "Trousers"
+      "tshirt",
+      "shirt",
+      "jacket",
+      "track",
+      "jeans",
+      "shorts",
+      "trousers"
     ],
     "price": [
       {
