@@ -5,7 +5,7 @@
         "name": "Men's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
-        "discountedPrice": 180,
+        "discountedPrice": 270,
         "category": "tshirt",
         "gender": "men",
         "images": [
@@ -57,7 +57,7 @@
         "name": "Men's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
-        "discountedPrice": 180,
+        "discountedPrice": 270,
         "category": "tshirt",
         "gender": "men",
         "images": [
@@ -109,7 +109,7 @@
         "name": "Men's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
-        "discountedPrice": 180,
+        "discountedPrice": 270,
         "category": "tshirt",
         "gender": "men",
         "images": [
@@ -161,7 +161,7 @@
         "name": "Women's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
-        "discountedPrice": 180,      
+        "discountedPrice": 270,      
         "category": "tshirt",
         "gender": "women",
         "images": [
@@ -213,7 +213,7 @@
         "name": "Men's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
-        "discountedPrice": 180,
+        "discountedPrice": 270,
         "category": "tshirt",
         "gender": "women",
         "images": [
@@ -269,20 +269,6 @@
       "jeans",
       "shorts",
       "trousers"
-    ],
-    "price": [
-      {
-        "min": 199,
-        "max": 399
-      },
-      {
-        "min": 400,
-        "max": 699
-      },
-      {
-        "min": 700,
-        "max": 999
-      }
     ]
   },
   "genders" : [
