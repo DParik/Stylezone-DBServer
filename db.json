@@ -9,7 +9,6 @@
         "category": "tshirt",
         "gender": "men",
         "images": [
-            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1824369/2017/5/5/11493980166188-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-1.jpg",
             "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/1824369/2017/5/5/11493980166188-Roadster-Men-White-Printed-Round-Neck-T-shirt-4411493980165893-1.jpg"
         ]
     },
@@ -62,6 +61,7 @@
         "category": "tshirt",
         "gender": "men",
         "images": [
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6555071/2018/8/17/bf9c0b36-b7d5-4e0f-be94-80dc44e8fc701534485716145-HRX-by-Hrithik-Roshan-Men-Tshirts-8941534485715943-1.jpg",
             "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/6555071/2018/8/17/bf9c0b36-b7d5-4e0f-be94-80dc44e8fc701534485716145-HRX-by-Hrithik-Roshan-Men-Tshirts-8941534485715943-1.jpg"
         ]
     },
@@ -211,7 +211,7 @@
 
     {
         "id": 17,
-        "name": "Men's Polo Tshirt",
+        "name": "Women's Polo Tshirt",
         "price": 450,
         "discountPercent": 40,
         "discountedPrice": 270,
