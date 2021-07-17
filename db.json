@@ -44,7 +44,7 @@
         "name": "Men's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
-        "discountedPrice": 330,
+        "discountedPrice": 220,
         "category": "shirt",
         "gender": "men",
         "images": [
@@ -97,7 +97,7 @@
         "name": "Men's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
-        "discountedPrice": 330,
+        "discountedPrice": 220,
         "category": "shirt",
         "gender": "men",
         "images": [
@@ -149,7 +149,7 @@
         "name": "Women's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
-        "discountedPrice": 330,
+        "discountedPrice": 220,
         "category": "shirt",
         "gender": "women",
         "images": [
@@ -201,7 +201,7 @@
         "name": "Women's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
-        "discountedPrice": 330,
+        "discountedPrice": 220,
         "category": "shirt",
         "gender": "women",
         "images": [
@@ -253,7 +253,7 @@
         "name": "Women's Polo Shirt",
         "price": 550,
         "discountPercent": 60,
-        "discountedPrice": 335,
+        "discountedPrice": 220,
         "category": "shirt",
         "gender": "women",
         "images": [
